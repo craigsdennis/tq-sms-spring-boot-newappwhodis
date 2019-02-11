@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Response xmlns:th="http://www.thymeleaf.org">
+    <Message th:text="txt" />
+</Response>
