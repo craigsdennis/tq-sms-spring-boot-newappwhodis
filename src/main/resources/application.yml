@@ -1,0 +1,9 @@
+spring:
+  thymeleaf:
+    enabled: true
+    check-template: true
+    check-template-location: true
+    encoding: UTF-8
+    mode: xml
+    content-type: application/xml
+    suffix: .xml
